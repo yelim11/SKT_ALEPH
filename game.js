@@ -7,13 +7,13 @@ const ROUND_TIME = 30;
 const PLAYER_SPEED = 115; 
 const PLAYER_RADIUS = 5;
 const COLLISION_STEP = 1.5; 
-const TURN_ASSIST = 5.0;    
+const TURN_ASSIST = 4.5;    
 const GHOST_SPEED = 80;  
 const FRIGHTENED_SPEED = 54;
 const FRIGHTENED_TIME = 5.5;
 const SAVE_KEY = 'neonMaze30SaveV1';
 const RUNS_KEY = 'neonMaze30RunsV1';
-const NORMAL_PELLET_COUNT = 17;
+const NORMAL_PELLET_COUNT = 20;
 const POWER_PELLET_COUNT = 4;
 
 const canvas = document.getElementById('game');

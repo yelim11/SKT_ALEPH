@@ -4,7 +4,7 @@ const TILE = 16;
 const COLS = 28;
 const ROWS = 36;
 const ROUND_TIME = 30;
-const PLAYER_SPEED = 115; 
+const PLAYER_SPEED = 116; 
 const PLAYER_RADIUS = 4.5;
 const COLLISION_STEP = 1.5; 
 const TURN_ASSIST = 4.5;    
@@ -270,8 +270,6 @@ function dirMatchesAxis(dir,axis) {
 }
 
 
-
-// Original Web Audio BGM / SFX
 
 let audioCtx = null;
 let masterGain = null;

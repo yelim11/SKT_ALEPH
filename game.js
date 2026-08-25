@@ -13,7 +13,7 @@ const FRIGHTENED_SPEED = 54;
 const FRIGHTENED_TIME = 5.5;
 const SAVE_KEY = 'neonMaze30SaveV1';
 const RUNS_KEY = 'neonMaze30RunsV1';
-const NORMAL_PELLET_COUNT = 20;
+const NORMAL_PELLET_COUNT = 17;
 const POWER_PELLET_COUNT = 4;
 
 const canvas = document.getElementById('game');
